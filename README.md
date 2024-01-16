@@ -1,7 +1,7 @@
 
 ## 4 Ways to fetch data in react application, React JS beginners tutorial 2024
 
-<img src="/banner.png" alt="banner-image"/>
+<img src="./public/banner.png" alt="banner-image"/>
 
 ## Demo
 [Tutorial Video Link](https://youtu.be/_jLxmkVkDOI)
